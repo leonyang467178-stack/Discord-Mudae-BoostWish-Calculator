@@ -13,6 +13,6 @@ In mudae, BoostWish allows you to spend rolls to increase the odds of getting a 
 The goal is therefore to find the perfect balance between the number of BoostWish invested, and the leftover of rolls to get more characters.
 
 ## How to use?
-Run the program and enter your total number of rolls + the number of rolls you invested in BoostWish
-Then enter the Default odds of dropping a wished character - the buff you currently get with BoostWish ($bonus)
+Run the program and enter your total number of rolls plus the number of rolls you invested in BoostWish
+Then enter the Default odds of dropping a wished character minus the buff you currently get with BoostWish ($bonus)
 
